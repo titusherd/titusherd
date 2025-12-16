@@ -1,4 +1,10 @@
-## Hi there 👋
+<h2 align="center">Hi there, I'm Titusherd 👋</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-blush-eight-56.vercel.app/api?username=titusherd&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_rank=true&include_all_commits=true&hide=issues,stars" alt="Titusherd Stats" />
+  
+  <img src="https://github-readme-stats-blush-eight-56.vercel.app/api/top-langs/?username=titusherd&layout=compact&count_private=true&theme=radical&hide_border=true&hide=html" alt="Top Languages" />
+</p>
 
 <!--
 **titusherd/titusherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
