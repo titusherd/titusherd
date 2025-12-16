@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github-readme-stats-blush-eight-56.vercel.app/api?username=titusherd&show_icons=true&count_private=true&theme=radical&hide_border=true&hide_rank=true&include_all_commits=true&hide=issues,stars" alt="Titusherd Stats" />
   
-  <img src="https://github-readme-stats-blush-eight-56.vercel.app/api/top-langs/?username=titusherd&layout=compact&count_private=true&theme=radical&hide_border=true&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats-blush-eight-56.vercel.app/api/top-langs/?username=titusherd&layout=compact&count_private=true&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
 
 <!--
